@@ -1,7 +1,6 @@
 ### What's up 👋
 
 - 🌱 I’m currently learning Node, React, Next, Css
-- 🏫 Student In @ETEC
 - 👯 I’m looking to collaborate on @space
 - 🤔 I’m looking for help with logic for table rpg
 - 📫 How to reach me: Instagram @brunoabunai
